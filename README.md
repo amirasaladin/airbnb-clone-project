@@ -33,7 +33,7 @@ Explore the technologies used in a scalable project and their specific contribut
 # Database Design
 Plan and document a relational database structure with entities, attributes, and relationships that mirror real-world requirements.
 
-# Feature-Driven Development
+# Feature Breakdown
 Identify and describe core features of the application, focusing on their relevance to the user experience and business logic.
 
 # API Security Fundamentals
