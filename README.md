@@ -27,19 +27,19 @@ Learn to initialize and structure a project repository, adhering to industry bes
 # Team Roles
 Understand and articulate the responsibilities of various team members, fostering collaboration in real-world scenarios.
 
-# Technology Stack Breakdown:
+# Technology Stack
 Explore the technologies used in a scalable project and their specific contributions to achieving project goals.
 
-# Database Design Proficiency:
+# Database Design
 Plan and document a relational database structure with entities, attributes, and relationships that mirror real-world requirements.
 
-# Feature-Driven Development:
+# Feature-Driven Development
 Identify and describe core features of the application, focusing on their relevance to the user experience and business logic.
 
-# API Security Fundamentals:
+# API Security Fundamentals
 Implement and document key security measures to safeguard application data and ensure secure transactions.
 
-# CI/CD Pipeline Integration:
+# CI/CD Pipeline Integration
 Gain insights into setting up automated development pipelines, boosting efficiency and minimizing errors during the deployment phase.
 
 This structured approach ensures learners not only build technical skills but also adopt a mindset geared toward problem-solving, scalability, and industry-grade project execution.
